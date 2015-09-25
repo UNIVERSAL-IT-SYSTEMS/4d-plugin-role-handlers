@@ -2,7 +2,7 @@
 Set or get the default application, by scheme, UTI or extension. Also obtain list of capable applications.
 
 * Tested on El Capitan: ```YES```
-* 
+
 ![](https://github.com/miyako/4d-plugin-role-handlers/blob/master/images/change.png)
 
 ```

@@ -1,0 +1,1 @@
+﻿{"name":"Role Handlers","id":20000,"commands":[{"theme":"Role Handlers","syntax":"Get default application(&T;&T;&T):L"},{"theme":"Role Handlers","syntax":"Set default application(&T;&T):L"},{"theme":"Role Handlers","syntax":"Get capable applications(&T;&Y;&Y):L"}]}

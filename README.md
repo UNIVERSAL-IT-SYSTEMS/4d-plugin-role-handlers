@@ -1,9 +1,26 @@
 # 4d-plugin-role-handlers
 Set or get the default application, by scheme, UTI or extension. Also obtain list of capable applications.
 
-* Tested on El Capitan: ```YES```
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🆗|🚫|🚫|
+
+Commands
+---
+
+```c
+// --- Role Handlers
+Get_default_application
+Set_default_application
+Get_capable_applications
+```
 
 ![](https://github.com/miyako/4d-plugin-role-handlers/blob/master/images/change.png)
+
+Examples
+---
 
 ```
   //passing a URL scheme
